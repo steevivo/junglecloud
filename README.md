@@ -1,2 +1,2 @@
 # junglecloud
-Junglecloud Project
+Junglecloud Project (Open source technologies and distributed infrastructures)
