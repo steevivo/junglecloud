@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Pg4 + postgres with docker
+
 mkdir postgres
 cd postgres
 
